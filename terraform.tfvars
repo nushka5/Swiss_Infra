@@ -1,4 +1,4 @@
 swissrg = {
   SwissRG  = "Central india"
-  SwissRG2 = "East US"
+  SwissRG2 = "West us"
 }
